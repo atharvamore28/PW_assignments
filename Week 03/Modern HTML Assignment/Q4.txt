@@ -1,0 +1,8 @@
+Q4. List any 3 ways which help us in improving the accessibility of HTML.
+Ans. 
+   
+   1. Use Semantic HTML: Semantic HTML refers to using appropriate HTML elements to convey the structure and meaning of content. It helps assistive technologies (e.g., screen readers) understand the purpose of different elements on the page. 
+
+   2. Add Alternative Text for Images: Images should have descriptive alternative text (alt text) that conveys the purpose and content of the image
+
+   3. Provide Descriptive Link Text: Make sure that link text accurately describes the target of the link.

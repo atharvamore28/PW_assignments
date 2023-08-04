@@ -1,0 +1,13 @@
+Q1.  List out the features of HTML5.
+Ans. 
+
+   The features of HTML5 are :
+   1. Improved Multimedia supoort : HTML5 allows integration of audio and video files into webpage.
+
+   2.  Geolocation API : HTML5 provides an API for obtaining users location.
+
+   3. Offline Web Applications : HTML5 introduced the Application Cache feature, enabling web applications to work offline.
+
+   4. Canvas : The <canvas> element introduced in HTML5 enables dynamic rendering of graphics, animations, and interactive visualizations directly within the browser without the need for plugins.
+
+   5. Accessibility Improvements : HTML5 provides better support for accessibility, including ability to provide alternate text for image and better support for screen readers.
