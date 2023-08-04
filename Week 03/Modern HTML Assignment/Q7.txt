@@ -1,4 +1,4 @@
-Q7. What re teh benefits of using semantic tags in our webpage?
+Q7. What are the benefits of using semantic tags in our webpage?
 Ans. 
 
    Using semantic tags in webpages offers several benefits:
