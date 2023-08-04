@@ -1,0 +1,4 @@
+Q5. Write a short note on tab index.
+Ans. 
+ 
+   Tab index, also known as the "tab order" or "tab navigation," is a concept used in user interface design to determine the sequence in which elements receive focus when a user interacts with a webpage or application using the "Tab" key on their keyboard. When navigating a web page or application using the Tab key, the focus moves from one interactive element to another, such as buttons, input fields, links, and other focusable elements. The tab index attribute allows developers to control and customize this navigation order. The tab index is an HTML attribute and is primarily used in web development to define the order of focus for interactive elements.

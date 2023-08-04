@@ -1,0 +1,12 @@
+Q6. List any 5 semantic tags in HTML along with their descriptions.
+Ans. 
+
+  1. <header>: Description: The <header> tag represents the introductory or navigational section of a webpage. It typically includes logos, navigation menus, and other elements that appear at the top of the page.
+
+  2. <nav>: The <nav> tag is used to define a section of navigation links, such as a menu or a list of links to other pages on the website. It helps identify the primary navigation area on a webpage.
+
+  3. <main>: The <main> tag represents the main content of the webpage. It should contain the central information that the page intends to convey to the user. There should be only one <main> element on a page.
+
+  4. <article>: The <article> tag is used to define a self-contained piece of content that can be distributed and reused independently. It could be a blog post, a news article, a forum post, or any other standalone content.
+
+  5. <footer>: The <footer> tag represents the footer section of a webpage, typically containing copyright information, contact details, links to privacy policies, and other relevant information that appears at the bottom of the page.
