@@ -1,0 +1,8 @@
+Q4. List out any 3 tags we learned in this module and give a brief explanation about the tags.
+Ans. 
+    
+  1. <div> : The <div> tag defines a section or a division in an HTML document. The <div> tag is used as container in an HTML document. It is used to give webpage a structure.
+
+  2. <img> : The <img> tag is used to insert an image in the Webpage. The <img> tag has two necessary attributes named as 'src' and 'alt'.
+
+  3. <a>   : The anchor tag is denoted as <a> tag. It is used to define a hyperlink which is used to link oe page to another. An important attribute of <a> tag is 'href'. The value of the 'href' attribute specifies the link's destination.

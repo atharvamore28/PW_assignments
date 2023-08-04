@@ -1,0 +1,10 @@
+Q3. Write a short note on Tags, Elements and Attributes along with relevant examples.
+Ans.
+ 
+  1. TAGS : Tags are used to define elements in an HTML document. Tags can be Opening Tag or Closing Tag. The content of tags is     displayed on the browser. Tags are surrounded by angle brackets(< >).  Opening Tag consists of the name of the element wrapped in angle brackets. Closing Tag is the same as the opening tag, except that it includes a forward slash before the element 
+  name. Some elements in HTML are self closing Tags, they don't require a closing tag. Example : <div>, <nav>, <header>, <footer>
+
+  2. ELEMENTS : Element is the most basic component of an HTML document, which can represent text, paragraph, list, or any 
+  other content in a web page. HTML tag along with content inside it is known as HTML Element. Example : <div>this is div</div>, <header>this is header</header>
+
+  3. ATTRIBUTES : HTML Attributes are properties given to an HTML element. Attributesare added to HTML opening tag using syntax attribute_name = "attribute_value". Attributes are used to change default properties of an element. Example : <div id="identity"></div>, <div class="class"></div>.

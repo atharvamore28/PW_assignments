@@ -1,0 +1,15 @@
+Q7. Explain a brief about nesting operator in emmet?
+Ans. 
+ 
+  Nesting tags helps to place elements with respect to other elements.
+  The different types of nesting tags are :
+
+  1. Child  '>'  : This operator is used for nesting elements
+
+  2. Sibling   '+'  : This is used to generate a sibling of specified element.
+
+  3. Climb up  '^'  : With ^ operator, you can climb one level up the tree and change context where following elements should appear.
+
+  4. Multiplication  '*'  :  With * operator you can define how many times element should be outputted.
+   
+  5. Grouping  '()'  : Parenthesises are used by users for grouping subtrees.

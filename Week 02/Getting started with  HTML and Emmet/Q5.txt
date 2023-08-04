@@ -1,0 +1,8 @@
+Q5. What is emmet? List some of the advantages emmet offers.
+Ans.
+
+  1. Emmet is a shorthand abbreviation syntax for writing HTML in an efficient manner. We can write HTML syntax faster. 
+  
+  2. Advantages of Emmet : i. coding faster : emmet provides many shorthand properties which makes developers write code faster.
+                          ii. Imporved code consistency : emmet make sure that conventional code structure and formating styles are followed.
+                          iii. Simplifies coding : Emmet is flexible to many shortcuts which makes writing complex code in few keystrokes.

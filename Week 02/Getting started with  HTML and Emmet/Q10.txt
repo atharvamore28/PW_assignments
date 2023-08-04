@@ -1,0 +1,10 @@
+Q10. What are global attributes? List any 5 global attributes.
+Ans. 
+
+  Global attributes are those attributeswhich can be used with all HTML elements.
+  The Global Attributes are : 
+  1. accesskey
+  2. class
+  3. id
+  4. style
+  5. title
