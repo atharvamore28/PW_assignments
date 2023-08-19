@@ -1,5 +1,5 @@
 
-let packageType = "express";
+let packageType = "standard";
 
 switch (packageType) {
     case "standard":
@@ -12,8 +12,5 @@ switch (packageType) {
 
     case "overnight":
         console.log("Your package will arrive the next day.");
-        break;
-
-    default:
         break;
 }
